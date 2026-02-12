@@ -8,5 +8,5 @@ This lab is intended to show basic cisco router configurations:
 
 
 
-Future labs will be increment further to show a steady progression on knowledge and skill in network design, skills and principles.
+Future labs will be increment further to show a steady progression on knowledge network design, skills and principles.
 
